@@ -1,6 +1,5 @@
 localoyal
 
-1615946 - DSE-24-03-23.docx 1 / 7
 Datenschutzerklärung
 (Stand: März 2023)
 
@@ -38,7 +37,7 @@ Zugang oder für eventuelle Support-Aktivitäten wie Zurücksetzen der PIN.
 
 localoyal
 
-1615946 - DSE-24-03-23.docx 2 / 7
+
 • Nutzung der localoyal Services
 Daten: Transaktionsdaten (Zum Beispiel: Zeitpunkt der Interaktion, localoyal Partner, eingelöste
 oder vergebene Punkte, eingelöste Angebote)
@@ -79,7 +78,7 @@ Endgerät oder der Check-In am localoyal Point of Sales (POS) Terminal mit der l
 
 localoyal
 
-1615946 - DSE-24-03-23.docx 3 / 7
+
 Welche Daten werden bei Interaktionen mit einem localoyal Point of Sales (POS) Terminal
 verarbeitet?
 Persönliche Identifikationsdetails, persönliche Merkmale und Konsumgewohnheiten werden mit
@@ -126,7 +125,7 @@ Produkten und Dienstleistungen
 
 localoyal
 
-1615946 - DSE-24-03-23.docx 4 / 7
+
 Beschreibung: localoyal erfasst und verarbeitet Details zum Öffnen bestimmter Inhalte oder zum
 Klickverhalten in Nachrichten.
 Der Versand von Push Notifications an Android und Apple-Smartphones erfolgt über einen Dienst
@@ -166,7 +165,6 @@ Produkte und Funktionen durchgeführt werden.
 
 localoyal
 
-1615946 - DSE-24-03-23.docx 5 / 7
 Algorithmische Entscheidungen
 Wir nutzen vollautomatische Verfahren, um für localoyal Partner zu entscheiden, welche Kunden
 zu welchem Zeitpunkt welche vom Partner eingerichteten Marketing-Informationen erhalten.
@@ -208,7 +206,7 @@ verwenden und er ist verpflichtet, Deine Daten nach Abschluss des Auftrags zu l�
 
 localoyal
 
-1615946 - DSE-24-03-23.docx 6 / 7
+
 Auf welcher Rechtsgrundlage verarbeiten wir Daten?
 Wir verarbeiten Deine Daten auf Grundlage des Bundesdatenschutzgesetzes und der
 Datenschutzgrundverordnung.
